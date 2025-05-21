@@ -62,7 +62,9 @@ content generation scenarios:
 3.	Multiple Versions: Different versions of the content, showing the effect of prompt changes on the output.
 4.	Final Version: The polished version of the content after incorporating feedback and refining the prompts.
 
-## 1. Travel Blog PostStep 1: Basic Prompt (First Draft)
+## 1. Travel Blog Post
+
+Step 1: Basic Prompt (First Draft)
 Write a travel blog post about visiting Varkala, India.
 
 ## First Draft Output:
